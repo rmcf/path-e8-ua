@@ -1,0 +1,114 @@
+[
+  {
+    "type": "Feature",
+    "properties": { "id": 1, "name": "с. Лубня", "altitude": null },
+    "geometry": { "type": "Point", "coordinates": [22.71948, 49.03196] }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 2, "name": "г. Плішка", "altitude": 1067 },
+    "geometry": { "type": "Point", "coordinates": [22.75772, 49.03275] }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 3, "name": "г. Пікуй", "altitude": 1408 },
+    "geometry": { "type": "Point", "coordinates": [23.00099, 48.82971] }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 4, "name": "г. Тростян", "altitude": 1232 },
+    "geometry": { "type": "Point", "coordinates": [23.39092, 48.8566] }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 5, "name": "сел. Славське", "altitude": null },
+    "geometry": { "type": "Point", "coordinates": [23.44995, 48.84623] }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 6, "name": "г. Чорна Ріпа", "altitude": 1285 },
+    "geometry": { "type": "Point", "coordinates": [23.51888, 48.73036] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 7,
+      "name": "г. Вишківський Горган",
+      "altitude": 1440
+    },
+    "geometry": { "type": "Point", "coordinates": [23.68828, 48.64674] }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 8, "name": "г. Молода", "altitude": 1724 },
+    "geometry": { "type": "Point", "coordinates": [23.86983, 48.65646] }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 9, "name": "г. Попадя", "altitude": 1740 },
+    "geometry": { "type": "Point", "coordinates": [23.90687, 48.56305] }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 10, "name": "с. Осмолода", "altitude": null },
+    "geometry": { "type": "Point", "coordinates": [24.01829, 48.6437] }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 11, "name": "г. Ігровець", "altitude": 1804 },
+    "geometry": { "type": "Point", "coordinates": [24.09974, 48.59759] }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 12, "name": "г. Велика Сивуля", "altitude": 1836 },
+    "geometry": { "type": "Point", "coordinates": [24.11931, 48.54921] }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 13, "name": "с. Бистриця", "altitude": null },
+    "geometry": { "type": "Point", "coordinates": [24.24935, 48.46281] }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 14, "name": "г. Хомяк", "altitude": 1542 },
+    "geometry": { "type": "Point", "coordinates": [24.4968, 48.36752] }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 15, "name": "с. Яблуниця", "altitude": null },
+    "geometry": { "type": "Point", "coordinates": [24.49586, 48.32761] }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 16, "name": "с. Ворохта", "altitude": null },
+    "geometry": { "type": "Point", "coordinates": [24.56263, 48.28769] }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 17, "name": "г. Говерла", "altitude": 2061 },
+    "geometry": { "type": "Point", "coordinates": [24.49994, 48.16021] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 18,
+      "name": "г. Піп Іван Чорногірський (обсерваторія",
+      "altitude": 2020
+    },
+    "geometry": { "type": "Point", "coordinates": [24.62751, 48.04697] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 19,
+      "name": "г. Піп Іван Мармароський",
+      "altitude": 1933
+    },
+    "geometry": { "type": "Point", "coordinates": [24.32792, 47.92381] }
+  },
+  {
+    "type": "Feature",
+    "properties": { "id": 20, "name": "с. Ділове", "altitude": null },
+    "geometry": { "type": "Point", "coordinates": [24.17725, 47.93794] }
+  }
+]

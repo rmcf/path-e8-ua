@@ -1,0 +1,322 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 1,
+      "title": {
+        "en": "с. Лубня",
+        "ua": "с. Лубня"
+      },
+      "altitude": null,
+      "img": "image1"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.71948, 49.03196]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 2,
+      "title": {
+        "en": "г. Плішка",
+        "ua": "г. Плішка"
+      },
+      "altitude": 1067,
+      "img": "image2"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.75772, 49.03275]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 3,
+      "title": {
+        "en": "г. Пікуй",
+        "ua": "г. Пікуй"
+      },
+      "altitude": 1408,
+      "img": "image3"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.00099, 48.82971]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 4,
+      "title": {
+        "en": "г. Тростян",
+        "ua": "г. Тростян"
+      },
+      "altitude": 1232,
+      "img": "image4"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.39092, 48.8566]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 5,
+      "title": {
+        "en": "сел. Славське",
+        "ua": "сел. Славське"
+      },
+      "altitude": null,
+      "img": "image5"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.44995, 48.84623]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 6,
+      "title": {
+        "en": "г. Чорна Ріпа",
+        "ua": "г. Чорна Ріпа"
+      },
+      "altitude": 1285,
+      "img": "image6"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.51888, 48.73036]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 7,
+      "title": {
+        "en": "г. Вишківський Горган",
+        "ua": "г. Вишківський Горган"
+      },
+      "altitude": 1440,
+      "img": "image7"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.68828, 48.64674]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 8,
+      "title": {
+        "en": "г. Молода",
+        "ua": "г. Молода"
+      },
+      "altitude": 1724,
+      "img": "image8"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.86983, 48.65646]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 9,
+      "title": {
+        "en": "г. Попадя",
+        "ua": "г. Попадя"
+      },
+      "altitude": 1740,
+      "img": "image9"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.90687, 48.56305]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 10,
+      "title": {
+        "en": "с. Осмолода",
+        "ua": "с. Осмолода"
+      },
+      "altitude": null,
+      "img": "image10"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.01829, 48.6437]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 11,
+      "title": {
+        "en": "г. Ігровець",
+        "ua": "г. Ігровець"
+      },
+      "altitude": 1804,
+      "img": "image11"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.09974, 48.59759]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 12,
+      "title": {
+        "en": "г. Велика Сивуля",
+        "ua": "г. Велика Сивуля"
+      },
+      "altitude": 1836,
+      "img": "image12"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.11931, 48.54921]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 13,
+      "title": {
+        "en": "с. Бистриця",
+        "ua": "с. Бистриця"
+      },
+      "altitude": null,
+      "img": "image13"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.24935, 48.46281]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 14,
+      "title": {
+        "en": "г. Хомяк",
+        "ua": "г. Хомяк"
+      },
+      "altitude": 1542,
+      "img": "image14"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.4968, 48.36752]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 15,
+      "title": {
+        "en": "с. Яблуниця",
+        "ua": "с. Яблуниця"
+      },
+      "altitude": null,
+      "img": "image15"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.49586, 48.32761]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 16,
+      "title": {
+        "en": "с. Ворохта",
+        "ua": "с. Ворохта"
+      },
+      "altitude": null,
+      "img": "image16"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.56263, 48.28769]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 17,
+      "title": {
+        "en": "г. Говерла",
+        "ua": "г. Говерла"
+      },
+      "altitude": 2061,
+      "img": "image17"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.49994, 48.16021]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 18,
+      "title": {
+        "en": "г. Піп Іван Чорногірський (обсерваторія",
+        "ua": "г. Піп Іван Чорногірський (обсерваторія"
+      },
+      "altitude": 2020,
+      "img": "image18"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.62751, 48.04697]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 19,
+      "title": {
+        "en": "г. Піп Іван Мармароський",
+        "ua": "г. Піп Іван Мармароський"
+      },
+      "altitude": 1933,
+      "img": "image19"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.32792, 47.92381]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": 20,
+      "title": {
+        "en": "с. Ділове",
+        "ua": "с. Ділове"
+      },
+      "altitude": null,
+      "img": "image20"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.17725, 47.93794]
+    }
+  }
+]
