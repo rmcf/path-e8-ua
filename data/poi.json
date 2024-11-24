@@ -4,11 +4,11 @@
     "properties": {
       "id": 1,
       "title": {
-        "en": "с. Лубня",
+        "en": "Lubnia",
         "ua": "с. Лубня"
       },
       "altitude": null,
-      "img": "image1"
+      "img": "lubnya.jpg"
     },
     "geometry": {
       "type": "Point",
@@ -20,11 +20,11 @@
     "properties": {
       "id": 2,
       "title": {
-        "en": "г. Плішка",
+        "en": "Plishka",
         "ua": "г. Плішка"
       },
       "altitude": 1067,
-      "img": "image2"
+      "img": "plishka.jpg"
     },
     "geometry": {
       "type": "Point",
@@ -36,11 +36,11 @@
     "properties": {
       "id": 3,
       "title": {
-        "en": "г. Пікуй",
+        "en": "Pikui",
         "ua": "г. Пікуй"
       },
       "altitude": 1408,
-      "img": "image3"
+      "img": "pikuy.jpg"
     },
     "geometry": {
       "type": "Point",
@@ -52,11 +52,11 @@
     "properties": {
       "id": 4,
       "title": {
-        "en": "г. Тростян",
+        "en": "Trostian",
         "ua": "г. Тростян"
       },
       "altitude": 1232,
-      "img": "image4"
+      "img": "trostyan.jpg"
     },
     "geometry": {
       "type": "Point",
@@ -68,11 +68,11 @@
     "properties": {
       "id": 5,
       "title": {
-        "en": "сел. Славське",
+        "en": "Slavske",
         "ua": "сел. Славське"
       },
       "altitude": null,
-      "img": "image5"
+      "img": "slavske.jpg"
     },
     "geometry": {
       "type": "Point",
@@ -84,11 +84,11 @@
     "properties": {
       "id": 6,
       "title": {
-        "en": "г. Чорна Ріпа",
+        "en": "Chorna Ripa",
         "ua": "г. Чорна Ріпа"
       },
       "altitude": 1285,
-      "img": "image6"
+      "img": "chorna_ripa.jpg"
     },
     "geometry": {
       "type": "Point",
@@ -100,11 +100,11 @@
     "properties": {
       "id": 7,
       "title": {
-        "en": "г. Вишківський Горган",
+        "en": "Vyshkivskyi Horhan",
         "ua": "г. Вишківський Горган"
       },
       "altitude": 1440,
-      "img": "image7"
+      "img": "vyshkivskyi_horhan.png"
     },
     "geometry": {
       "type": "Point",
@@ -116,11 +116,11 @@
     "properties": {
       "id": 8,
       "title": {
-        "en": "г. Молода",
+        "en": "Moloda",
         "ua": "г. Молода"
       },
       "altitude": 1724,
-      "img": "image8"
+      "img": "moloda.jpg"
     },
     "geometry": {
       "type": "Point",
@@ -132,11 +132,11 @@
     "properties": {
       "id": 9,
       "title": {
-        "en": "г. Попадя",
+        "en": "Popadia",
         "ua": "г. Попадя"
       },
       "altitude": 1740,
-      "img": "image9"
+      "img": "popadya.jpg"
     },
     "geometry": {
       "type": "Point",
@@ -148,11 +148,11 @@
     "properties": {
       "id": 10,
       "title": {
-        "en": "с. Осмолода",
+        "en": "Osmoloda",
         "ua": "с. Осмолода"
       },
       "altitude": null,
-      "img": "image10"
+      "img": "osmoloda.jpg"
     },
     "geometry": {
       "type": "Point",
@@ -164,11 +164,11 @@
     "properties": {
       "id": 11,
       "title": {
-        "en": "г. Ігровець",
+        "en": "Ihrovets",
         "ua": "г. Ігровець"
       },
       "altitude": 1804,
-      "img": "image11"
+      "img": "igrovets.jpg"
     },
     "geometry": {
       "type": "Point",
@@ -180,11 +180,11 @@
     "properties": {
       "id": 12,
       "title": {
-        "en": "г. Велика Сивуля",
+        "en": "Velyka Syvulia",
         "ua": "г. Велика Сивуля"
       },
       "altitude": 1836,
-      "img": "image12"
+      "img": "velyka_syvulya.png"
     },
     "geometry": {
       "type": "Point",
@@ -196,11 +196,11 @@
     "properties": {
       "id": 13,
       "title": {
-        "en": "с. Бистриця",
+        "en": "Bystrytsia",
         "ua": "с. Бистриця"
       },
       "altitude": null,
-      "img": "image13"
+      "img": "bystrytsya.png"
     },
     "geometry": {
       "type": "Point",
@@ -212,11 +212,11 @@
     "properties": {
       "id": 14,
       "title": {
-        "en": "г. Хомяк",
+        "en": "Khomiak",
         "ua": "г. Хомяк"
       },
       "altitude": 1542,
-      "img": "image14"
+      "img": "khomyak.png"
     },
     "geometry": {
       "type": "Point",
@@ -228,11 +228,11 @@
     "properties": {
       "id": 15,
       "title": {
-        "en": "с. Яблуниця",
+        "en": "Yablunytsia",
         "ua": "с. Яблуниця"
       },
       "altitude": null,
-      "img": "image15"
+      "img": "yablunytsa.jpg"
     },
     "geometry": {
       "type": "Point",
@@ -244,11 +244,11 @@
     "properties": {
       "id": 16,
       "title": {
-        "en": "с. Ворохта",
+        "en": "Vorokhta",
         "ua": "с. Ворохта"
       },
       "altitude": null,
-      "img": "image16"
+      "img": "vorokhta.jpg"
     },
     "geometry": {
       "type": "Point",
@@ -260,11 +260,11 @@
     "properties": {
       "id": 17,
       "title": {
-        "en": "г. Говерла",
+        "en": "Hoverla",
         "ua": "г. Говерла"
       },
       "altitude": 2061,
-      "img": "image17"
+      "img": "hoverla.jpg"
     },
     "geometry": {
       "type": "Point",
@@ -276,11 +276,11 @@
     "properties": {
       "id": 18,
       "title": {
-        "en": "г. Піп Іван Чорногірський (обсерваторія",
-        "ua": "г. Піп Іван Чорногірський (обсерваторія"
+        "en": "Pip Ivan Chornohirskyi",
+        "ua": "г. Піп Іван Чорногірський"
       },
       "altitude": 2020,
-      "img": "image18"
+      "img": "pip_ivan_observatoria.jpg"
     },
     "geometry": {
       "type": "Point",
@@ -292,11 +292,11 @@
     "properties": {
       "id": 19,
       "title": {
-        "en": "г. Піп Іван Мармароський",
+        "en": "Pip Ivan Marmaroskyi",
         "ua": "г. Піп Іван Мармароський"
       },
       "altitude": 1933,
-      "img": "image19"
+      "img": "pip_ivan_marmaroshskyi.jpg"
     },
     "geometry": {
       "type": "Point",
@@ -308,11 +308,11 @@
     "properties": {
       "id": 20,
       "title": {
-        "en": "с. Ділове",
+        "en": "Dilove",
         "ua": "с. Ділове"
       },
       "altitude": null,
-      "img": "image20"
+      "img": "dilove.jpeg"
     },
     "geometry": {
       "type": "Point",
